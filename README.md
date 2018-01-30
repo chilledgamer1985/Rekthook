@@ -1,6 +1,8 @@
 # Rekthook for Counter-Strike: Global Offensive
 Rekthook an open source cheat for Counter-Strike: Global Offensive game. Based on AYYWARE.
-
+ 
+ 
+ OFFSETS ARE ALL UPTO DATE AS OF TODAY 30/01/2018
 
 Features
 rage bot
